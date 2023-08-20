@@ -31,6 +31,11 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+.contact-link {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;
+}
 
 .navigation-links {
   display: flex;
